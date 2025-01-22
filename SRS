@@ -1,0 +1,10 @@
+SRS
+
+- form creation
+- a form is a chain of various items
+- an item is an element with some text and/or image coupled with either a
+		- radio
+		- checkbox
+		- textfield
+		- file
+- adding items to form by drag and drop 
